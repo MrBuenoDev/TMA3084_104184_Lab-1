@@ -1,7 +1,7 @@
 # Lab 1: Dart Basics - Pizza Ordering Calculator
 
 ## Course Information
-- **Course**: Mobile Application Development / Programming Fundamentals
+- **Course**: TMA3084 Sem 1 26/27: Software Engineering Lab
 - **Lab Session**: Lab 1 (Dart Control Flow: Switch-Case & Loops)
 - **Task**: Pizza Ordering Calculator
 
